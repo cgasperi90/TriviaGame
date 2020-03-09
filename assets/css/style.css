@@ -1,0 +1,21 @@
+body {
+    background-image: url(memphis-colorful.png);
+}
+#container {
+    background-color: lightblue;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    height: auto;
+    width: auto;
+    border-radius: 20px;
+}
+#header {
+    padding: 25px;
+    font-size: 100px;
+}
+#start {
+    margin: 50px;
+    padding-left: 45px;
+    padding-right: 45px;
+}
