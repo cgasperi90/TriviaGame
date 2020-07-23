@@ -1,1 +1,3 @@
 # TriviaGame
+
+In this application, a user will be put to the test on their knowledge in the NFL. When the user goes to the link provided, they can click the button on the main page in order to start the game. Once they start the game, they will be given the first question and the 10 second timer will start. If the user does not answer the question in 10 seconds, then the question will be marked incorrect and they will be sent to the next question. Once the user has gone through the entire quiz, then the user will get a report on how many questions they got right, and how many they got wrong along with a percentage. Have fun and enjoy the quiz!
